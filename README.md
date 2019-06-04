@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## To run the app (make sure you have yarn installed)
+1. Install and start the server first so that it takes the port 3000: https://github.com/AgataJot/conde-nast-server. API connection relies on port 3000.
 1. `yarn`
 1. `yarn start`
 
