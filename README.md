@@ -4,9 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. `yarn`
 1. `yarn start` - Runs the app in the development mode. Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
 ## To run the tests
 1. `yarn`
 1. `yarn test` - Launches the test runner in the interactive watch mode.
